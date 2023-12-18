@@ -13,6 +13,8 @@ Check it out, https://genai-chatbot-2fpo5ad4ra-uc.a.run.app/
 - Crafting a Python Flask-based Web Chatbot App with PaLM API
 - Dockerizing the Chatbot App for seamless deployment 🐳
 - Deploying the containerized app on Cloud Run ☁️
+  
+![Screenshot (977)](https://github.com/aniketandhale08/GenAI-Chatbot/assets/99685171/6e9c0173-dfc7-406f-b0b4-aae496e19275)
 
 ## What is Generative AI
 

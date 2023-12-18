@@ -2,9 +2,10 @@
 
 This repository contains code for project to Build Gen-AI chatbot using PaLM API.
 In this project, we'll explore the creation of sophisticated AI-powered chatbots on Cloud Run. Follow along this comprehensive, step-by-step guide to leverage Google’s PaLM API and Cloud Run. Learn how to build, deploy, and manage intelligent chatbots, empowering your applications with advanced conversational abilities.
+
 Check it out, https://genai-chatbot-2fpo5ad4ra-uc.a.run.app/
 
-In this project, I delve into:
+# In this project, I delve into:
 - Understanding Generative AI’s potential 🤖
 - Exploring the Generative AI studio in Google Cloud ☁️
 - Harnessing the Python SDK for Vertex AI PaLM API 🐍

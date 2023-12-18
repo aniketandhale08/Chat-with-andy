@@ -5,7 +5,7 @@ In this project, we'll explore the creation of sophisticated AI-powered chatbots
 
 Check it out, https://genai-chatbot-2fpo5ad4ra-uc.a.run.app/
 
-# In this project, I delve into:
+## In this project, I delve into:
 - Understanding Generative AI’s potential 🤖
 - Exploring the Generative AI studio in Google Cloud ☁️
 - Harnessing the Python SDK for Vertex AI PaLM API 🐍
